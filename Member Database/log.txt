@@ -1,0 +1,18 @@
+Added new member 12345678 John Doe
+Added new member 23527787 Kanye West
+Added new member 12356789 Lebron James
+Added new member 99999999 Thomas Shelby
+Added new member 87654321 Arthur Shelby
+Added new member 15151515 Bruce Wayne
+Added new member 13579101 Mario Lopez
+Added new member 10000000 Marques Brownlee
+Added new member 20000000 Aaron Rodgers
+Added new member 30000000 Sam Darnold
+Added new member 56789101 Khalil Mack
+Added new member 45000000 Nick Young
+Changed name of member with ID of 13579101 to Dave Chapelle
+Deleted member 87654321 Arthur Shelby
+Added new member 11111111 Kobe Bryant
+Deleted member 10000000 Marques Brownlee
+Changed name of member with ID of 12345678 to Torendra Rasik
+Added new member 66666666 Shairaz Qamar
