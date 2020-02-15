@@ -1,1 +1,1 @@
-
+This project creates a box object with a length, width and height based on a given input file. The program will extract the given values, put them in an array and then present the data with the volume in a GUI. On the left side, it will show the user the unsorted list based on volume, and the right side will show the sorted list based on volume.
