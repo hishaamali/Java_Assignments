@@ -1,1 +1,0 @@
-This program creates a box object with a length, width and volume and implements it through a Linked List. It displays the unsorted and sorted lists in the GUI. Additionally, the program will throw an exception if the values entered are invalid. The GUI will also include an option to enter the volume of a box, and display boxes that will allow the entered box to fit.
